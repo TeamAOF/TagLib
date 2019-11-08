@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "taglib",
+	"version": "1.0.0",
+
+	"name": "TagLib",
+	"description": "Adds a bunch of common tags for modders, modpack devs and datapack devs to use.",
+	"authors": [
+		"Shnupbups"
+	],
+
+	"license": "LGPLv3",
+	"icon": "assets/taglib/icon.png",
+
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.shnupbups.taglib.TagLib"
+		]
+	},
+	"mixins": [
+		"taglib.mixins.json"
+	],
+
+	"depends": {
+		"fabricloader": ">=0.6.1",
+		"fabric": "*"
+	}
+}

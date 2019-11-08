@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:anvil",
+	"#c:concrete_powders",
+	"minecraft:dragon_egg",
+	"minecraft:gravel",
+	"#minecraft:sand"
+  ]
+}

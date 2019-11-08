@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+	"#c:torch",
+	"#c:redstone_torch"
+  ]
+}

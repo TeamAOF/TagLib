@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+	"#c:golden_apples",
+    "minecraft:golden_carrot"
+  ]
+}

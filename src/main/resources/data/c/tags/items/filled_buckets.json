@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+	"#c:fish_buckets",
+    "minecraft:lava_bucket",
+	"minecraft:milk_bucket",
+	"minecraft:water_bucket"
+  ]
+}
