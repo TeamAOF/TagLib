@@ -11,7 +11,6 @@ import net.minecraft.block.BlockState;
 import net.minecraft.entity.LivingEntity;
 
 import com.shnupbups.taglib.FunctionalTags;
-import com.shnupbups.taglib.TagLib;
 
 @Mixin(LivingEntity.class)
 public abstract class LivingEntityMixin {

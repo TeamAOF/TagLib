@@ -3,7 +3,8 @@
 	"package": "com.shnupbups.taglib.mixin",
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
-		"LivingEntityMixin"
+		"LivingEntityMixin",
+		"FireBlockMixin"
 	],
 	"client": [
 	],

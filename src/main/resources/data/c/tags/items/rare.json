@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:beacon",
+    "minecraft:conduit",
+    "minecraft:end_crystal",
+    "minecraft:golden_apple",
+    "#c:music_discs"
+  ]
+}

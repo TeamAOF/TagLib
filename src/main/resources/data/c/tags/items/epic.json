@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:mojang_banner_pattern",
+    "minecraft:command_block",
+    "minecraft:chain_command_block",
+    "minecraft:repeating_command_block",
+    "minecraft:dragon_egg",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:structure_block",
+    "minecraft:jigsaw"
+  ]
+}

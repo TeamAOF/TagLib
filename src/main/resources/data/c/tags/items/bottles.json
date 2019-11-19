@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#c:empty_bottles",
+    "#c:filled_bottles"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#c:eternally_flammable",
+	  "minecraft:diamond_ore"
+  ]
+}
