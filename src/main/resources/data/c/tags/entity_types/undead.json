@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:skeletons",
+    "#c:zombies",
+    "#c:undead_horses",
+    "minecraft:wither",
+    "minecraft:phantom"
+  ]
+}

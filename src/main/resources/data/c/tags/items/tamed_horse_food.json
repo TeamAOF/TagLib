@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+	  "#c:wild_horse_food",
+	  "minecraft:hay_bale"
+  ]
+}

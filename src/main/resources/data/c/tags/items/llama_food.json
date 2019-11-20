@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+	  "#c:llama_breeding_items",
+	  "minecraft:wheat"
+  ]
+}

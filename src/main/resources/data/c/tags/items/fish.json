@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+	"#c:raw_fish",
+    "#c:cooked_fish",
+	  "#c:uncookable_fish"
+  ]
+}

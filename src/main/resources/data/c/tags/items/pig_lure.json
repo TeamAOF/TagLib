@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+	  "#c:pig_food",
+    "minecraft:carrot_on_a_stick"
+  ]
+}

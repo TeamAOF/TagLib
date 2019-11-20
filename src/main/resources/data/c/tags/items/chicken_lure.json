@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-	"minecraft:cod",
-    "minecraft:salmon"
+	  "#c:chicken_food"
   ]
 }
