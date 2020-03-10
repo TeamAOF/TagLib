@@ -1,7 +1,10 @@
 {
   "replace": false,
   "values": [
-	"#c:floor_coral_fans",
-	"#c:wall_coral_fans"
+	"minecraft:brain_coral_fan",
+	"minecraft:bubble_coral_fan",
+	"minecraft:fire_coral_fan",
+	"minecraft:horn_coral_fan",
+	"minecraft:tube_coral_fan"
   ]
 }

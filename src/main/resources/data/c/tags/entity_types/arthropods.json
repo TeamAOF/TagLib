@@ -3,6 +3,7 @@
   "values": [
     "#c:spiders",
     "minecraft:silverfish",
-    "minecraft:endermite"
+    "minecraft:endermite",
+    "minecraft:bee"
   ]
 }

@@ -3,8 +3,10 @@
 	"package": "com.shnupbups.taglib.mixin",
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
-		"LivingEntityMixin",
-		"FireBlockMixin"
+		"AbstractFireBlockMixin",
+		"FireBlockMixin",
+		"SoulFireBlockMixin",
+		"TurtleEggBlockMixin"
 	],
 	"client": [
 	],

@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"#c:vines",
+		"#c:ladders",
+		"#c:scaffolding"
+	]
+}
