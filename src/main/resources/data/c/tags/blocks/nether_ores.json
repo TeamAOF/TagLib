@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "minecraft:nether_quartz_ore"
+    "minecraft:nether_quartz_ore",
+    "minecraft:ancient_debris"
   ]
 }

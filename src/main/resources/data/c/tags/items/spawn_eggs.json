@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "minecraft:bat_spawn_egg",
+	  "minecraft:bee_spawn_egg",
 	"minecraft:blaze_spawn_egg",
 	"minecraft:cat_spawn_egg",
 	"minecraft:cave_spider_spawn_egg",
@@ -18,6 +19,7 @@
 	"minecraft:fox_spawn_egg",
 	"minecraft:ghast_spawn_egg",
 	"minecraft:guardian_spawn_egg",
+	  "minecraft:hoglin_spawn_egg",
 	"minecraft:horse_spawn_egg",
 	"minecraft:husk_spawn_egg",
 	"minecraft:llama_spawn_egg",
@@ -29,6 +31,7 @@
 	"minecraft:parrot_spawn_egg",
 	"minecraft:phantom_spawn_egg",
 	"minecraft:pig_spawn_egg",
+	  "minecraft:piglin_spawn_egg",
 	"minecraft:pillager_spawn_egg",
 	"minecraft:polar_bear_spawn_egg",
 	"minecraft:rabbit_spawn_egg",
@@ -55,7 +58,7 @@
 	"minecraft:wolf_spawn_egg",
 	"minecraft:zombie_spawn_egg",
 	"minecraft:zombie_horse_spawn_egg",
-	"minecraft:zombie_pigman_spawn_egg",
+	"minecraft:zombified_piglin_spawn_egg",
 	"minecraft:zombie_villager_spawn_egg"
   ]
 }

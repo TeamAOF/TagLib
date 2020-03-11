@@ -1,6 +1,7 @@
 package com.shnupbups.taglib;
 
 import net.minecraft.block.Block;
+import net.minecraft.item.Item;
 import net.minecraft.tag.Tag;
 
 public class FunctionalTags implements TagNamespace {
@@ -8,7 +9,9 @@ public class FunctionalTags implements TagNamespace {
 	
 	public static final Tag<Block> ETERNALLY_FLAMMABLE = INSTANCE.getBlockTag("eternally_flammable");
 	public static final Tag<Block> SUPPORTS_SOUL_FIRE = INSTANCE.getBlockTag("supports_soul_fire");
-	public static final Tag<Block> SUPPORTS_TURTLE_EGGS = INSTANCE.getBlockTag("supports_soul_fire");
+	public static final Tag<Block> SUPPORTS_TURTLE_EGGS = INSTANCE.getBlockTag("supports_turtle_eggs");
+	
+	public static final Tag<Item> FIREPROOF = INSTANCE.getItemTag("fireproof");
 	
 	@Override
 	public String getNamespace() {
